@@ -1,5 +1,26 @@
 # TimeSlice-Scheduler
 A Round Robin Task Scheduler using Circular Queue in C++
+# TimeSlice – Round Robin Task Scheduling System
+
+This project simulates a CPU task scheduler using a Circular Queue and Round Robin logic, implemented in C++.
+
+## 🔧 Features
+- Add tasks with ID, name, and time
+- Execute tasks using time-slicing (Round Robin)
+- Automatically remove completed tasks
+- Console display with colored output and formatted data
+
+## 👨‍💻 Developed By
+- Abhishek Shukla – Core Execution Logic & Output Design
+- Ayush – Task Insertion and Input Handling
+- Rohit – Task Structure & Debugging
+
+## 🖥️ Technologies
+- Language: C++
+- Concept: Data Structures (Circular Queue)
+- Interface: Console I/O (with ANSI formatting)
+
+
 #include <iostream>
 #include <string>
 #include <iomanip> 
